@@ -9,10 +9,10 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'yêu em nhiều :))',
     btnNo: 'yêu em khác dòi',
-    question:'vì sao em lại lọt hố chú bộ đội á???<3',
+    question:'trên thế giới có 7 tỷ người vì sao anh lại yêu em nhỉ??<3',
     btnReply: 'anh nhỉ<3',
-    reply: 'because em lỡ chân  em té ;)) ',
-    mess: 'nhưng mà Yêu anh nhiều nhiều 😘😘',
+    reply: 'vì em đáng yêu lắm ,ny anh lại còn ngoan nữa ;)) ',
+    mess: 'em biết mà:).Yêu anh nhiều nhiều 😘😘',
     messDesc: 'hẹn gặp chú bộ đội của em<3 yêu.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
